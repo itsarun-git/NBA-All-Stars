@@ -19,25 +19,22 @@ Decision Tree Classifier: A simple yet powerful classification algorithm that sp
 
 Random Forest Classifier: An ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes (classification) of the individual trees. This approach helps in reducing overfitting and improves accuracy.
 
-## Model Evaluation:
+# Results  
 Used cross-validation and performance metrics such as accuracy, precision, and F1-score to evaluate and compare the models.
 The project compared the performance of the Decision Tree and Random Forest classifiers. Here are the key findings:
-
-# Results
 ## Decision Tree Classifier:
-Provided a clear and interpretable model with a decent accuracy but was prone to overfitting on the training data.
-Performance metrics:
-Accuracy: 96.15%
-Precision: 61.29%
-F1-Score: 65.52%
-
+Provided a clear and interpretable model with a decent accuracy but was prone to overfitting on the training data.  
+Performance metrics:  
+Accuracy: 96.15%  
+Precision: 61.29%  
+F1-Score: 65.52%  
 ## Random Forest Classifier:
 Outperformed the Decision Tree classifier by reducing overfitting and providing better generalization on unseen data.
-Leveraged the power of ensemble learning to improve the robustness and accuracy of the predictions.
-Performance metrics:
-Accuracy: 98.08%
-Precision: 86.96%
-F1-Score: 80%
+Leveraged the power of ensemble learning to improve the robustness and accuracy of the predictions.  
+Performance metrics:  
+Accuracy: 98.08%  
+Precision: 86.96%  
+F1-Score: 80%  
 
 # Conclusion:
 The Random Forest Classifier demonstrated superior performance in predicting future NBA stars based on player statistics.
