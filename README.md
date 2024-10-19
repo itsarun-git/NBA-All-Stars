@@ -1,4 +1,4 @@
-# Project
+# NBA All Stars Prediction
 Predicting the future performance and potential of NBA players is a challenging yet critical task for teams, scouts, and analysts. Accurate predictions can influence draft decisions, team building strategies, and player development programs. This project aims to solve the problem of identifying future NBA stars based on their individual statistics. By leveraging machine learning techniques, we aim to provide a reliable model that can forecast a player's potential success, thus aiding in making informed decisions.
 
 # Key aspects of the problem include:
